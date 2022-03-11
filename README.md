@@ -1,6 +1,6 @@
-# COMO HACER UN PAY DE LIMON by BuenaMaravillaEscuadronLobo
+# COMO HACER UN PASTEL DE AJEDREZ by BuenaMaravillaEscuadronLobo
 
 <p align="center">
-<img src="images/pay.png" width="350">
+<img src="images/pastel_ajedrez.jpg" width="400">
 </p>
 
