@@ -4,3 +4,7 @@
 <img src="images/pastel_ajedrez.jpg" width="400">
 </p>
 
+
+| ------------- | ------------- |
+| Preparación:  | 30 minutos  |
+| Cocción:  | 1 hora  |
