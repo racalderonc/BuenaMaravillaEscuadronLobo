@@ -9,7 +9,7 @@
 | ------------- |
 | 500 g de margarina sin sal    |
 
-'''
+```
 **Preparación:** 30 min
 **Cocción:** 1 hora
-'''
+```
