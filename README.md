@@ -19,7 +19,10 @@ La torta ajedrez o torta damero es original, deliciosa por su combinación y muy
 | 1 cucharadita de esencia de vainilla |
 | 30 g de Cacao en polvo        |
 
+<p>
+
 - **Preparación**: 30 minutos
 - **Cocción:** 1 hora
 - **Cantidad:** 6 - 8 Porciones
 - **Dificultad:** Medio
+</p>
