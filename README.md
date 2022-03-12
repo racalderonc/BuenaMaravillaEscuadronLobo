@@ -51,7 +51,7 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 - 9.- Alternar 2 discos iguales y otro de forma inversa para que al armar las 3 capas y se obtenga el efecto - ajedrez.
 - 10.- Hornear por 20 minutos aproximadamente cada disco de forma individual
 -->
-
+```
 <ol>
     <li value="1"> Precalentar el horno a 175ºC. </li>
     <li> Cremar la margarina hasta blanquear un poco. </li>
@@ -64,3 +64,4 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
     <li> Alternar 2 discos iguales y otro de forma inversa para obtener el efecto - ajedrez. </li>
     <li> Hornear por 20 minutos aproximadamente cada disco de forma individual </li>
 </ol>
+```
