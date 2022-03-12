@@ -26,6 +26,7 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 
 ## PREPARACIÓN
 
+<!-- 
 - 1.- Precalentar el horno a 175ºC.
 - 2.- Cremar la margarina hasta blanquear un poco
 - 3.- Cernir el azúcar pulverizada e incorporarla poco a poco
@@ -36,10 +37,10 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 - 8.- Disponer ambas mezclas en mangas individuales y proceder a manguear en aros dentro del molde.
 - 9.- Alternar 2 discos iguales y otro de forma inversa para que al armar las 3 capas y se obtenga el efecto - ajedrez.
 - 10.- Hornear por 20 minutos aproximadamente cada disco de forma individual
-
+-->
 
 <ol>
-    <li value="1"> Precalentar el horno a 175ºC. </li
+    <li value="1"> Precalentar el horno a 175ºC. </li>
     <li> Cremar la margarina hasta blanquear un poco. </li>
     <li> Cernir el azúcar pulverizada e incorporarla poco a poco. </li>
     <li> Batir la mezcla hasta que haya aumentado su volumen y tenga consistencia homogénea. </li>
