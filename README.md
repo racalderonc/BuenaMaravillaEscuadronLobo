@@ -36,6 +36,7 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
     <tr> <td> 30 g de Cacao en polvo </td> </tr>
     
 </table>
+
 ## PREPARACIÓN
 
 <!-- 
