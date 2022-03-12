@@ -15,10 +15,8 @@
 | 1 cucharadita de esencia de vainilla |
 | 30 g de Cacao en polvo        |
 
-```
-**Preparación:** 30 minutos
-Cocción: 1 hora
-Cantidad: 6 - 8 Porciones
-Dificultad: Medio
-```
+
 - **Preparación**: 30 minutos
+- **Cocción:** 1 hora
+- **Cantidad:** 6 - 8 Porciones
+- **Dificultad:** Medio
