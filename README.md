@@ -26,10 +26,10 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 
 ## PREPARACIÓN
 
--1.- Precalentar el horno a 175ºC.
--2.- Cremar la margarina hasta blanquear un poco
--3.- Cernir el azúcar pulverizada e incorporarla poco a poco
--4.- Batir la mezcla hasta que haya aumentado su volumen y tenga consistencia homogénea.
+- 1.- Precalentar el horno a 175ºC.
+- 2.- Cremar la margarina hasta blanquear un poco
+- 3.- Cernir el azúcar pulverizada e incorporarla poco a poco
+- 4.- Batir la mezcla hasta que haya aumentado su volumen y tenga consistencia homogénea.
 - 5.- Agregar los huevos uno a uno a velocidad media y al finalizar la esencia de vainilla.
 - 6.- Cernir la harina junto al polvo de hornear e incorporar a mano en la mezcla anterior.
 - 7.- Dividir la mezcla en partes iguales e incorporar a una de ellas el cacao en polvo.
@@ -37,3 +37,16 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 - 9.- Alternar 2 discos iguales y otro de forma inversa para que al armar las 3 capas y se obtenga el efecto - ajedrez.
 - 10.- Hornear por 20 minutos aproximadamente cada disco de forma individual
 
+
+<ol>
+    <li value="1"> Precalentar el horno a 175ºC. </li
+    <li> Cremar la margarina hasta blanquear un poco. </li>
+    <li> Cernir el azúcar pulverizada e incorporarla poco a poco. </li>
+    <li> Batir la mezcla hasta que haya aumentado su volumen y tenga consistencia homogénea. </li>
+    <li> Agregar los huevos uno a uno a velocidad media y al finalizar la esencia de vainilla. </li>
+    <li> Cernir la harina junto al polvo de hornear e incorporar a mano en la mezcla anterior. </li>
+    <li> Dividir la mezcla en partes iguales e incorporar a una de ellas el cacao en polvo. </li>
+    <li> Disponer ambas mezclas en mangas individuales y proceder a manguear en aros dentro del molde. </li>
+    <li> Alternar 2 discos iguales y otro de forma inversa para obtener el efecto - ajedrez. </li>
+    <li> Hornear por 20 minutos aproximadamente cada disco de forma individual </li>
+</ol>
