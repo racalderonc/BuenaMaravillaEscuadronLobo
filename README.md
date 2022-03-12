@@ -1,7 +1,7 @@
 # COMO HACER UN PASTEL DE AJEDREZ
 
 <p align="center">
-<img src="images/pastel_ajedrez.jpg" width="400">
+<img src="images/pastel_ajedrez.jpg" width="800">
 </p>
 
 <p>
