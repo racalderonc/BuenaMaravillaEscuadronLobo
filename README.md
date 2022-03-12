@@ -1,9 +1,10 @@
-# COMO HACER UN PASTEL DE AJEDREZ by BuenaMaravillaEscuadronLobo
+# COMO HACER UN PASTEL DE AJEDREZ
 
 <p align="center">
 <img src="images/pastel_ajedrez.jpg" width="400">
 </p>
 
+<div align="center">
 
 |  **INGREDIENTES** |
 | ------------- |
@@ -15,7 +16,13 @@
 | 1 cucharadita de esencia de vainilla |
 | 30 g de Cacao en polvo        |
 
+</div>
 ```
 Preparación: 30 min
 Cocción: 1 hora
 ```
+
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
