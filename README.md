@@ -13,7 +13,7 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 - **Cantidad:** 6 - 8 Porciones
 - **Dificultad:** Medio
 
-## INGREDIENTES
+## INGREDIENTES:
 
 <table class="default">
     <tr> <td> 500 g de margarina sin sal </td> </tr>
@@ -41,3 +41,4 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
     <li> Hornear por 20 minutos aproximadamente cada disco de forma individual </li>
 </ol>
 
+## BUENA SUERTE 
