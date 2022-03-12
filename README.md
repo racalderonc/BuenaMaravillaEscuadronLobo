@@ -25,15 +25,14 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 | 30 g de Cacao en polvo        |
 
 <table class="default">
-    <tr>
-        <td> 500 g de margarina sin sal </td>
-        <td> 450 g de azúcar pulverizada </td>
-        <td> 8 Huevos </td>
-        <td> 500 g de Harina todo uso </td>
-        <td> 10 g de Polvo de hornear </td>
-        <td> 1 cucharadita de esencia de vainilla </td>
-        <td> 30 g de Cacao en polvo </tr>
-    </tr>
+    <tr> <td> 500 g de margarina sin sal </td> </tr>
+    <tr> <td> 450 g de azúcar pulverizada </td> </tr>
+    <tr> <td> 8 Huevos </td> </tr>
+    <tr> <td> 500 g de Harina todo uso </td> </tr>
+    <tr> <td> 10 g de Polvo de hornear </td> </tr>
+    <tr> <td> 1 cucharadita de esencia de vainilla </td> </tr>
+    <tr> <td> 30 g de Cacao en polvo </td> </tr>
+    
 </table>
 ## PREPARACIÓN
 
