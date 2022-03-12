@@ -19,9 +19,9 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 | 1 cucharadita de esencia de vainilla |
 | 30 g de Cacao en polvo        |
 
+<br>
 <p>
-<br>
-<br>
+
 - **Preparación**: 30 minutos
 - **Cocción:** 1 hora
 - **Cantidad:** 6 - 8 Porciones
