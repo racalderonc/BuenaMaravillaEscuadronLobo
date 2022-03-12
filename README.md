@@ -6,7 +6,7 @@
 
 ## INGREDIENTES
 ||
-| ----------------- |
+||
 | 500 g de margarina sin sal    |
 | 450 g de azúcar pulverizada   |
 | 8 Huevos                      |
@@ -16,7 +16,7 @@
 | 30 g de Cacao en polvo        |
 
 ```
-- Preparación: 30 minutos
+- *Preparación:* 30 minutos
 - Cocción: 1 hora
 - Cantidad: 6 - 8 Porciones
 - Dificultad: Medio
