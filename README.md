@@ -4,6 +4,11 @@
 <img src="images/pastel_ajedrez.jpg" width="400">
 </p>
 
+```
+Preparación: 30 min
+Cocción: 1 hora
+```
+
 <div align="center">
 
 |  **INGREDIENTES** |
@@ -17,12 +22,3 @@
 | 30 g de Cacao en polvo        |
 
 </div>
-```
-Preparación: 30 min
-Cocción: 1 hora
-```
-
-| Primer encabezado | Segundo encabezado |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
