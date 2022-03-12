@@ -4,10 +4,8 @@
 <img src="images/pastel_ajedrez.jpg" width="400">
 </p>
 
-<div align="center">
+## INGREDIENTES
 
-|  **INGREDIENTES** |
-| ------------- |
 | 500 g de margarina sin sal    |
 | 450 g de azúcar pulverizada   |
 | 8 Huevos                      |
@@ -16,12 +14,9 @@
 | 1 cucharadita de esencia de vainilla |
 | 30 g de Cacao en polvo        |
 
-</div>
-
-
 ```
-Preparación: **30 minutos**
-Cocción: 1 hora
-Cantidad: 6 - 8 Porciones
-Dificultad: Medio
+- Preparación: 30 minutos
+- Cocción: 1 hora
+- Cantidad: 6 - 8 Porciones
+- Dificultad: Medio
 ```
