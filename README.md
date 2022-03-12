@@ -5,7 +5,7 @@
 </p>
 
 ## INGREDIENTES
-
+| ----------------- |
 | 500 g de margarina sin sal    |
 | 450 g de azúcar pulverizada   |
 | 8 Huevos                      |
@@ -20,3 +20,4 @@
 - Cantidad: 6 - 8 Porciones
 - Dificultad: Medio
 ```
+- Preparación: 30 minutos
