@@ -6,7 +6,7 @@
 
 ## INGREDIENTES
 |500 g de margarina sin sal|
-|-------------|
+|1111-------------|
 |     |
 | 450 g de azúcar pulverizada   |
 | 8 Huevos                      |
