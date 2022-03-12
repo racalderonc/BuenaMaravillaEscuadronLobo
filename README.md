@@ -5,9 +5,9 @@
 </p>
 
 ## INGREDIENTES
-||
+|500 g de margarina sin sal|
 |-------------|
-| 500 g de margarina sin sal    |
+|     |
 | 450 g de azúcar pulverizada   |
 | 8 Huevos                      |
 | 500 g de Harina todo uso      |
