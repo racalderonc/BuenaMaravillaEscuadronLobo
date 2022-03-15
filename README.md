@@ -52,7 +52,7 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
     <li> Hornear por 20 minutos aproximadamente cada disco de forma individual </li>
 </ul>
 
-## BUEN PROVECHO
+## INFROMACIÓN NUTRICIONAL
 
 <table align="center">
 <tr> 
