@@ -58,14 +58,14 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 <tr> 
     <td>
         <table class="default">
-            <tr> <td> Información nutricional </td>  <td> 1 porción </td> </tr>
-            <tr> <td> Energía </td> </tr>
-            <tr> <td> Proteína </td> </tr>
-            <tr> <td> Carbohidratos </td> </tr>
-            <tr> <td> Grasa </td> </tr>
-            <tr> <td> Colesterol </td> </tr>
-            <tr> <td> Sodio </td> </tr>    
-            <tr> <td> Potasio </td> </tr> 
+            <tr> <td> Información nutricional </td>  <td> 1 porción </td></tr>
+            <tr> <td> Energía </td> <td> 235 kcal </td></tr>
+            <tr> <td> Proteína </td> <td> 2.62 g </td></tr>
+            <tr> <td> Carbohidratos </td> <td> 34.94 g </td></tr>
+            <tr> <td> Grasa </td> <td> 10.5 g </td></tr>
+            <tr> <td> Colesterol </td> <td> 27 mg </td></tr>
+            <tr> <td> Sodio </td> <td> 214 mg </td> </tr>    
+            <tr> <td> Potasio </td> <td> 128 gr </td> </tr> 
         </table>
     </td>
     <td>
