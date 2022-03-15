@@ -1,6 +1,8 @@
-table, tr, td{
- border:none;
+<style>
+td, th {
+   border: none;
 }
+</style>
 
 # COMO HACER UN PASTEL DE AJEDREZ
 
@@ -21,8 +23,8 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 ## INGREDIENTES:
 
 <table align="center">
-<tr style="border:none"> 
-    <td style="border:none">
+<tr> 
+    <td>
         <table class="default">
             <tr> <td> 500 g de margarina sin sal </td> </tr>
             <tr> <td> 450 g de azúcar pulverizada </td> </tr>
@@ -33,7 +35,7 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
             <tr> <td> 30 g de Cacao en polvo </td> </tr>    
         </table>
     </td>
-    <td style="border:none">
+    <td>
         <img src="images/ingredientes.gif" width="300">
     </td>
 </tr>
