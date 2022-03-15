@@ -16,10 +16,10 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 
 ## INGREDIENTES:
 
-<table style="border: none">
-<tr> 
+<table>
+<tr style="border: hidden"> 
     <td>
-        <table class="default">
+        <table class="default" style="border: hidden">
             <tr> <td> 500 g de margarina sin sal </td> </tr>
             <tr> <td> 450 g de azúcar pulverizada </td> </tr>
             <tr> <td> 8 Huevos </td> </tr>
