@@ -54,6 +54,7 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 
 ## BUEN PROVECHO
 
-<img src="images/ajedrez2" width="400">
+<img src="images/ajedrez2.jpg" width="400">
+<img src="images/ajedrez2.jpg" width="300">
 
 
