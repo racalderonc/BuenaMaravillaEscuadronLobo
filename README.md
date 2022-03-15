@@ -1,9 +1,3 @@
-<style>
-tr, td {
-   border: none!important;
-}
-</style>
-
 # COMO HACER UN PASTEL DE AJEDREZ
 
 <p align="center">
@@ -58,4 +52,8 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
     <li> Hornear por 20 minutos aproximadamente cada disco de forma individual </li>
 </ul>
 
-## BUENA SUERTE 
+## BUEN PROVECHO
+
+<img src="images/ajedrez2" width="400">
+
+
