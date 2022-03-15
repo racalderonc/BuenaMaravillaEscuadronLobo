@@ -1,6 +1,6 @@
 <style>
 td, th {
-   border: none;
+   border: none!important;
 }
 </style>
 
