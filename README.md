@@ -16,7 +16,7 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
 
 ## INGREDIENTES:
 
-<table class="default">
+<table class="default" align="center" border-collapse=collapse>
 <tr> 
     <td>
         <table class="default">
@@ -30,7 +30,7 @@ El pastel de ajedrez o pastel damero es original, delicioso por su combinación 
         </table>
     </td>
     <td>
-        <img src="images/ingredientes.gif">
+        <img src="images/ingredientes.gif" width="300">
     </td>
 </tr>
 </table>
